@@ -1,0 +1,44 @@
+variable {'noaa_tos'}
+variable {'esa_tos'}
+variable {'nemo_tos'}
+variable {'fesom_tos'}
+variable {'icon_tos'}
+noaa_tos
+starting MHW detection for noaa_tos
+nemo_tos
+starting MHW detection for nemo_tos
+fesom_tos
+starting MHW detection for fesom_tos
+icon_tos
+starting MHW detection for icon_tos
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 27616905
+* JobName          : mwh                                               
+* Account          : bk1580
+* User             : b382291 (250357), bb1153 (1639)                   
+* Partition        : shared
+* QOS              : normal
+* Nodelist         : l40018 (1)                                                
+* Submit date      : 2026-09-22T14:42:36
+* Start time       : 2026-09-22T14:44:25
+* End time         : 2026-09-22T18:37:45
+* Elapsed time     : 03:53:20 (Timelimit=04:00:00)                     
+* Command          : /home/b/b382291/git/small_islands/run_3d_mhw.cmd
+* WorkDir          : /home/b/b382291/git/small_islands
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch              2.1
+* extern | extern             2.1                       ()
+* ------------------------------------------------------------------------------
+

@@ -1,0 +1,14 @@
+/home/b/b382291/.conda/envs/aqua_26/lib/python3.14/site-packages/xclim/core/utils.py:554: RuntimeWarning: All-NaN slice encountered
+  result = np.where(np.isnan(interpolation), np.nanmax(arr, axis=0), interpolation)
+/home/b/b382291/.conda/envs/aqua_26/lib/python3.14/site-packages/xesmf/smm.py:131: UserWarning: Input array is not C_CONTIGUOUS. Will affect performance.
+  warnings.warn('Input array is not C_CONTIGUOUS. ' 'Will affect performance.')
+/home/b/b382291/.conda/envs/aqua_26/lib/python3.14/site-packages/xclim/core/utils.py:554: RuntimeWarning: All-NaN slice encountered
+  result = np.where(np.isnan(interpolation), np.nanmax(arr, axis=0), interpolation)
+/home/b/b382291/.conda/envs/aqua_26/lib/python3.14/site-packages/xesmf/smm.py:131: UserWarning: Input array is not C_CONTIGUOUS. Will affect performance.
+  warnings.warn('Input array is not C_CONTIGUOUS. ' 'Will affect performance.')
+/home/b/b382291/.conda/envs/aqua_26/lib/python3.14/site-packages/xclim/core/utils.py:554: RuntimeWarning: All-NaN slice encountered
+  result = np.where(np.isnan(interpolation), np.nanmax(arr, axis=0), interpolation)
+/home/b/b382291/.conda/envs/aqua_26/lib/python3.14/site-packages/xesmf/smm.py:131: UserWarning: Input array is not C_CONTIGUOUS. Will affect performance.
+  warnings.warn('Input array is not C_CONTIGUOUS. ' 'Will affect performance.')
+/home/b/b382291/.conda/envs/aqua_26/lib/python3.14/site-packages/xclim/core/utils.py:554: RuntimeWarning: All-NaN slice encountered
+  result = np.where(np.isnan(interpolation), np.nanmax(arr, axis=0), interpolation)

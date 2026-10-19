@@ -1,0 +1,3 @@
+/home/b/b382291/.conda/envs/aqua_26/lib/python3.14/site-packages/xclim/core/utils.py:554: RuntimeWarning: All-NaN slice encountered
+  result = np.where(np.isnan(interpolation), np.nanmax(arr, axis=0), interpolation)
+[2026-09-24T01:37:26.006] error: *** JOB 27643344 ON l40020 CANCELLED AT 2026-09-24T01:37:26 DUE TO TIME LIMIT ***

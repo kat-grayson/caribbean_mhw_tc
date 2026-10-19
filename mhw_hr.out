@@ -1,0 +1,38 @@
+variable {'noaa_tos'}
+variable {'esa_tos'}
+variable {'nemo_tos'}
+variable {'fesom_tos'}
+variable {'icon_tos'}
+nemo_tos
+starting MHW detection for nemo_tos
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 27643344
+* JobName          : mwh_hr                                            
+* Account          : bk1580
+* User             : b382291 (250357), bb1153 (1639)                   
+* Partition        : shared
+* QOS              : normal
+* Nodelist         : l40020 (1)                                                
+* Submit date      : 2026-09-23T14:26:15
+* Start time       : 2026-09-23T17:37:20
+* End time         : 2026-09-24T01:37:26
+* Elapsed time     : 08:00:06 (Timelimit=08:00:00)                     
+* Command          : /home/b/b382291/git/small_islands/run_3d_mhw_highres.cmd
+* WorkDir          : /home/b/b382291/git/small_islands
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch              6.8
+* extern | extern             6.8                       ()
+* ------------------------------------------------------------------------------
+
